@@ -1,4 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Special notes for this project
+
+This simple socer game, when the ball locate in Yarden Street at Ma'alot-Tarshica (Israel), and the goal locate 1 kilometer from it.
+When the user move the ball, the server re-calculate the distance between it and the goal. When the distance is less then 10 meter,
+It alert "GOAL!!!".
+
+It use google-maps-react library.
+Enjoy playing and codeing.
+
+Beedbacks are welcome:
+mennei.segal@gmail.com
+www.linkedin.com/menachemsegal
+
 
 ## Available Scripts
 
