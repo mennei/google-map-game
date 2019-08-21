@@ -5,7 +5,7 @@ This simple socer game, when the ball locate in Yarden Street at Ma'alot-Tarshic
 When the user move the ball, the server re-calculate the distance between it and the goal. When the distance is less then 10 meter,
 It alert "GOAL!!!".
 
-It use google-maps-react library.
+It use google-maps-react and nextjs libraries.
 Enjoy playing and codeing.
 
 Beedbacks are welcome:
